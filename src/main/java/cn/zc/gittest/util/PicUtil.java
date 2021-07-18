@@ -6,5 +6,6 @@ public class PicUtil {
         System.out.println("33= 33");
         System.out.println("44= 44");
         System.out.println("55= 55");
+        System.out.println("66= 66");
     }
 }
