@@ -8,5 +8,6 @@ public class PicUtil {
         System.out.println("55= 55");
         System.out.println("66= 66");
         System.out.println("77= 77");
+        System.out.println("88= 88");
     }
 }
